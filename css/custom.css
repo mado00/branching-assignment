@@ -1,0 +1,33 @@
+/* this is a custom CSS stylesheet */
+
+body { 
+  padding: 70px; 
+  color: #808080;
+
+}
+
+footer {
+	padding: 2em 0;
+	margin: 3em 0;
+	border-top: 1px solid #ddd;
+	color: #999;
+	text-align: center;
+}
+
+
+h4 {
+  color: #FF00CC;
+  font-family :cursive;
+  font: bold;
+  font-size: 22px;
+
+}
+
+
+img {
+  max-width: 300px;
+  max-height: 400px;
+  border-radius: 30px;
+  -webkit-border-radius: 30px;
+  -moz-border-radius: 30px;
+}
